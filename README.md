@@ -5,4 +5,4 @@
 ## Description
 This repo is a collection of references to front end templates and related tutorials. They can be used when starting a new application.
 
-
+- [Simple Front End](simple-front-end)
